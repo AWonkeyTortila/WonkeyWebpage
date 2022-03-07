@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+}
+
+p {
+    font-family: Arial;
+    color: whitesmoke;
+}
+
+h1 {
+    font-family: Arial;
+    color: whitesmoke;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
