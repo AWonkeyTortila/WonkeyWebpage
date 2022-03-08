@@ -12,8 +12,39 @@ h1 {
     color: whitesmoke;
 }
 
+h6 {
+    color: transparent;
+}
+
 iframe {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
+header {
+    background-image:url(../images/Smug_asuka.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+button {    /* Another ported shitty mess. This is like the 10th port lol. */
+    border: 0px;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: transparent;
+}
+
+a {
+    font-family: Arial;
+    color: white;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
