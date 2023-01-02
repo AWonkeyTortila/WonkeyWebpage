@@ -99,3 +99,9 @@ a:active { text-decoration: none; }
     font-family: Arial;
     color: aqua;
 }
+
+.announcement-warning {
+    background-color: lightyellow;
+    padding: 5px;
+    color: black;
+}
