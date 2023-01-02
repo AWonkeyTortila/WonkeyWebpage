@@ -105,3 +105,9 @@ a:active { text-decoration: none; }
     padding: 5px;
     color: black;
 }
+
+.announcement-comment {
+    background-color: lightgreen;
+    padding: 5px;
+    color: black;
+}
