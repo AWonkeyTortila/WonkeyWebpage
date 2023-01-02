@@ -86,3 +86,16 @@ a:active { text-decoration: none; }
 .centre-text {
     text-align: center;
 }
+
+/* Port from Intranet Project */
+.announcement-box {
+    background-color: lightskyblue;
+    padding: 5px;
+    color: black;
+}
+
+.peom {
+    font-size: larger;
+    font-family: Arial;
+    color: aqua;
+}
