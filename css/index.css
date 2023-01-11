@@ -111,3 +111,13 @@ a:active { text-decoration: none; }
     padding: 5px;
     color: black;
 }
+
+.eng {
+    color: coral;
+}
+
+.chanson {
+    font-size: larger;
+    font-family: Arial;
+    color: yellow;
+}
