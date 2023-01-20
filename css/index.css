@@ -121,3 +121,18 @@ a:active { text-decoration: none; }
     font-family: Arial;
     color: yellow;
 }
+
+h3 {
+    font-family: Arial;
+    color: whitesmoke;
+}
+
+.story {
+    font-size: larger;
+    font-family: Arial;
+    color: rgb(230, 146, 146);
+}
+
+.stroke {
+    -webkit-text-stroke: 2px black;
+}
