@@ -136,3 +136,13 @@ h3 {
 .stroke {
     -webkit-text-stroke: 2px black;
 }
+
+.new {
+    color: red;
+}
+
+.phi {
+    font-size: larger;
+    font-family: Arial;
+    color: rgb(215, 29, 181);
+}
