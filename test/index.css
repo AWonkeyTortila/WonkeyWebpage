@@ -1,0 +1,27 @@
+html {
+    background-color: white;
+}
+
+p {
+    font-family: monospace;
+    color: black;
+}
+
+h3 {
+    font-family: monospace;
+    color: black;
+}
+
+a {
+    font-family: monospace;
+    color: black;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+.frames {
+    border: 2px solid black;
+}
