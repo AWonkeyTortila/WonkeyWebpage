@@ -25,3 +25,12 @@ a:active { text-decoration: none; }
 .frames {
     border: 2px solid black;
 }
+
+/**/
+
+
+.topDiv {
+    width: 80%;
+    background-color: rgb(12, 47, 92);
+    margin: auto;
+}
