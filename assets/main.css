@@ -15,6 +15,11 @@ h1 {
     font-family: Arial;
 }
 
+h2 {
+    color: white;
+    font-family: Arial;
+}
+
 p {
     color: white;
 }
@@ -33,4 +38,21 @@ a:active { text-decoration: none; }
 
 #bottom_bar2 {
     text-align: center;
+}
+
+img {
+    border: 6px solid black;
+}
+
+#CSSStandardsMyAss {
+    width: 80%;
+    background-color: #2a2a2d;
+    margin: auto;
+    border: 2px solid white;
+}
+
+#bottom {
+    width: 80%;
+    background-color: black;
+    margin: auto;
 }

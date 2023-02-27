@@ -157,3 +157,10 @@ h3 {
     background-color: rgb(12, 47, 92);
     margin: auto;
 }
+
+#CSSStandardsMyAss {
+    width: 80%;
+    background-color: #2a2a2d;
+    margin: auto;
+    border: 2px solid white;
+}
